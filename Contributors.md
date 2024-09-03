@@ -46,7 +46,7 @@
 Zipi Asrin
 - [Avyukt Aggarwal](https://github.com/Avyukt27) **Learning Is Great!**
 - [shoshi hoffner]
-- [Joel Mast] (https://github.com/Hamburger-coder) **Opensource is the best source!**
+- [Joel Mast] (https://github.com/Hamburger-coder) **Wooo Hooo!! Opensource is the best source!**
 - [Yael Werner](https://github.com/YaelWerner)
 - [Rosis Kharel](https://github.com/RosisK)
 - [Darren Foote](https://github.con/Themandme)
